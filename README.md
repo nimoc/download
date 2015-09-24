@@ -1,2 +1,3 @@
-# download
-通过 github download zip 下载文件
+# Download
+
+请点击右侧的 Download ZIP 按钮下载
